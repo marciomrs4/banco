@@ -1,0 +1,10 @@
+## Alteracao de Tabela ##
+
+
+1 - Para alterar uma tabela acrescentando uma coluna, usamos o seguinte comando:
+
+ ALTER TABLE {nome_tabela} COLUMN {nome_coluna} {opcoes}
+
+
+2 - Para alterar a coluna ja adcionada, usamos o seguinte comando:
+ ALTER TABLE {nome_tabela} CHANGE {nome_antigo_coluna} {novo_nome_coluna} {opcoes}

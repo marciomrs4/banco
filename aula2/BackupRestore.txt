@@ -1,0 +1,10 @@
+### Backup Restore ##
+
+1 - Para fazer backup usamos o seguinte comando:
+ mysqldump -u{usuario} -p{senha} -e --databases {nome_base} -r {local/arquivo_destino}
+
+
+2 - Para restaurar um backup efetuado, usamos da seguinte forma:
+ mysql -u{usario} -p{senha} < {local/arquivo_dump}
+
+

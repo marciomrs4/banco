@@ -1,0 +1,9 @@
+1 - Tipos de Dados do MySql
+
+2 - Alteração de tabela
+
+3 - Criacao de Usuario e Permissoes
+
+4 - MySql WorkBench
+
+5 - Backup e Restore.

@@ -1,0 +1,10 @@
+## Criacao de usuarios e permissoes. ##
+
+1 - Para vc criar um usuario, deve ser usado o seguinte comando:
+
+  CREATE USER {nome_usuario}@{ip_maquina} IDENTIFIED BY {senha_acesso}
+
+2 - Para alterar as permissoes de acesso, fazemos o seguinte:
+  GRANT {privilegio} ON {banco_de_dados}.{tabela_do_banco} TO {usuario}@{ip_maquina}
+
+3 - Para dar privilegios de qualquer maquina só precisamos alterar no {ip_maquina} para %

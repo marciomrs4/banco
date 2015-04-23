@@ -1,0 +1,20 @@
+## Tipo de Dados do Mysql ##
+
+String
+ char => char(10) Espaco fixo de tamanho.
+ varchar => varchar(10) Espaco variavel.
+ text => text Espaco maior (armazenar um texto)
+ 
+Binarios
+ blob => Usado principalmente para arquivos em anexo.  
+
+Numerico
+smallint => smallint(32767 - 65535) INT menor
+int => int(11) ( 2147483647 - 4294967295)
+
+Data 
+Date => Ano mes e dia YYYY-MM-DD
+DATETIME => ANO MES DIA HORA MINUTO E SEG HH:MM:SS
+            9999 
+TIMESTAMP => ANO MES DIA HORA MINUTO E SEG HH:MM:SS
+             1970 - 2037
