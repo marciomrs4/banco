@@ -1,0 +1,11 @@
+### Ferramentas para Administração do banco. ###
+
+1 - WorkBench.
+    1.1 - Crição de Base de dados.
+    1.2 - Criação de Tabelas.
+    1.3 - Criação de Usuários e Permissoes.
+    1.4 - Backup.
+    1.5 - Restore.
+    1.6 - Controle do Serviço do Banco.
+    1.7 - Alteração em Tabelas.
+    1.8 - Lista de Tipos de Dados.
